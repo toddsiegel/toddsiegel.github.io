@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Apple, Wireless and the Environment"
+date: 2008-01-17
+categories: [apple, wireless, environement, mac]
+---
+Pathetic as it may seem, I actually read (and refreshed repeatedly) a live blog-cast of Steve Jobs’ keynote at MacWorld yesterday. Later in the day I watched the video on Apple’s web site. I’m a geek, I know. Overall, the press response seemed ho-hum. It’s tough to top the iPhone, but I was excited.
+
+As a loyal Mac owner I was very pleased to see how advanced Apple is in it’s thinking about wireless technology. The Time Capsule is a no-brainer. The wireless backup should have been part of Time Machine from the start. It was, I believe. Early Time Machine literature made it seem that you could wirelessly backup since the Airport Extreme allows you to wirelessly share a hard drive. The cynic in me believes it was yanked from Leopard because Apple decided there was more money in a new product opportunity.
+
+The MacBook Air was the big news. More exciting to me than it’s slim size is its lack of an optical drive and an Ethernet jack. The MacBook Air is a purely wireless machine (save for its power cord). Apple is way ahead of the industry here. It will be a long time before the optical drive and wired Ethernet go the way of the floppy drive, but it’s a start. The MacBook Air is geared towards those that travel a lot and use their laptops on WiFi at home, in airports, hotels and coffee shops. That actually describes me pretty well, but I’m not going to run out and buy one, probably ever. I, perhaps mistakenly, consider myself a power user and like the extra power of my MacBook Pro so I don’t mind the extra size.I was also excited about the new multi-touch gesture support. When I played with my brother’s iPhone I asked myself why my trackpad couldn’t pinch, expand and swipe. The MacBook Air does all that and more. I assume the next generations of the MacBook and MacBook Pro will have the new gesture support too.
+
+The last thing, which I haven’t seen much written about, was the new environmental features of the MacBook Air. I was very dismayed when I read Greenpeace’s Green Electronics Guide in early 2007. Apple didn’t fare well. But since then they have been improving. On a ten-point scale they’ve gone from a 2.7 (yeesh!) to a 6. Not bad. I guess in addition to receiving a MacBook Air through the interoffice mail Steve Jobs received the memo that there’s a lot of money to be made with green products these days.
+
+Jobs stated that the MacBook Air’s case made entirely of aluminum and is entirely recyclable. Bravo. He also stated that all the circuit boards are free Brominated Flame Retardant (BFR) and Polyvinyl Chloride (PVC). BFRs and PVC are toxic chemicals capable of polluting during their entire life-cycle: manufacture, during use and during recycling/disposal. This does not mean, however, that the MacBook Air is entirely BFR and PVC free. Just the circuit boards are, but in writing this post I discovered that Apple has pledged to be BFR- and PVC-free by the end of 2008. Cool. Additionally the MacBook Air’s display is mercury-free (good riddance!) and made with arsenic-free glass. Way to go Apple. My hope is that that their score of six won’t be a six much longer. I look forward to more environmental improvements from Apple. For more info, they keep an environment page on their web site.
+
+Towards the end of his talk Steve Jobs bragged that if they have this many innovations two weeks into the new year, imagine what the next fifty will be like.I can’t wait.
