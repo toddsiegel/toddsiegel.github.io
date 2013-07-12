@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ciudad Bolívar"
+title: "Ciudad Bolívar, Canaima and Roraima"
 date: 2006-02-04
 categories: [travel, south america, venezuela]
 ---
